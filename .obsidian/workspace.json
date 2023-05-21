@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "92f4af3eaab52dad",
+    "type": "split",
+    "children": [
+      {
+        "id": "a55852b37a8ee8a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c9750553bb4c724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker-compose/grafana/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ff70619da032590",
+    "type": "split",
+    "children": [
+      {
+        "id": "4caca8492f89633e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "065a1e7f14a04a3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "894d60f6687209cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eab7dd220af644ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f107c9c2360f8d72",
+    "type": "split",
+    "children": [
+      {
+        "id": "324b4ab5a99c6ef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f566d82478ccccc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docker-compose/grafana/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf25504d51001f63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docker-compose/grafana/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41b7679fb4e2fd8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32f7e3ed577bd980",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docker-compose/grafana/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c9750553bb4c724",
+  "lastOpenFiles": [
+    "docker-compose/duplicati/README.md",
+    "docker-compose/cadvisor/README.md",
+    "README.md",
+    "CONTRIBUTING.md",
+    "docker-compose/grafana/README.md",
+    "docker-compose/bind9/README.md",
+    "docker-compose/authelia/README.md"
+  ]
+}
